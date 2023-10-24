@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @HyperCodeSoftware
 
 We are a dynamic software development company passionate about crafting high-quality solutions for our clients. Our team of experienced developers is dedicated to pushing the boundaries of technology to deliver innovative and reliable software products.
 
